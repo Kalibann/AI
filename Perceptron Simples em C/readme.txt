@@ -1,0 +1,1 @@
+Perceptron simples de uma única camada construído utilizando linguagem C.
